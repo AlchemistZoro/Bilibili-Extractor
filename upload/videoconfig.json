@@ -1,0 +1,31 @@
+{"config":{  "copyright": 1,
+    "cover": "",
+    "desc": "咒术回战剪辑第二次测试",
+    "desc_format_id": 32,
+    "dynamic": "",
+    "interactive": 0,
+    "mission_id": 0,
+    "no_reprint": 1,
+    "subtitle": {
+        "open": 0,
+        "lan": ""
+    },
+    "tag": "咒术回战,剪辑,高燃",
+    "tid": 24,
+    "title": "咒术回战ai混剪第二次测试",
+    "up_close_danmu": false,
+    "up_close_reply": false,
+    "videos": [
+        {
+            "filename": "", 
+            "title": "", 
+            "desc": "", 
+            "cid": ""
+        }
+    ]
+},
+
+"video_path":"/home/wzc/testcode/factory/output/video/c_5 Seconds of Summer - Teeth_100.mp4",
+
+"cover_path":"/home/wzc/testcode/factory/output/picture/1.jpg"
+}
